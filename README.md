@@ -10,3 +10,5 @@
 ### 调用网易云列表播放器
 ![主页](https://i0.hdslb.com/bfs/album/c171cc5810f8eb9dc0306fa88bcaf370a4cf4270.png@1e_1c.webp)
 
+![主页](https://i0.hdslb.com/bfs/album/d97518070859163d06b118f87ce8c52b6058deaf.jpg@1e_1c.webp)
+
